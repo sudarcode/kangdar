@@ -196,6 +196,7 @@ export function parseObsidianFrontMatter(frontmatter, filename, getBasename) {
 
 // matches Obsidian image syntax: ![[image.png]] or ![[path/to/image.png]]
 const OBSIDIAN_IMAGE_REGEX = /!\[\[([^\]]+)\]\]/g
+const OBSIDIAN_IMAGE_FULL_REGEX = /^\s*!\[\[([^\]]+)\]\]\s*$/
 
 /**
  * normalizes image filename: lowercase basename, replace spaces with hyphens, preserve extension
@@ -227,6 +228,44 @@ async function copyImage(sourcePath, destPath, originalName, normalizedName) {
       error: error.message,
     }
   }
+}
+
+/**
+ * Processes obsidian frontmatter banner image,
+ * copies the image from attachments into destDir/assets and rewrites the field to a local path.
+ *
+ * example:
+ *  banner: "![[reading-code-banner.png]]"
+ * result:
+ *  image: "./assets/reading-code-banner.png"
+ */
+export async function processBannerImage(frontmatter, sourceDir, destDir) {
+  const assetsDir = path.join(destDir, 'assets')
+  const rawValue = frontmatter?.banner
+  if (typeof rawValue !== 'string') return null
+
+  const match = rawValue.match(OBSIDIAN_IMAGE_FULL_REGEX)
+  if (!match?.[1]) return null
+
+  await fs.ensureDir(assetsDir)
+
+  const originalImageName = match[1].trim()
+  const normalizedImageName = normalizeImageName(originalImageName)
+  const sourceImagePath = path.join(sourceDir, originalImageName)
+  const destImagePath = path.join(assetsDir, normalizedImageName)
+
+  const result = await copyImage(
+    sourceImagePath,
+    destImagePath,
+    originalImageName,
+    normalizedImageName,
+  )
+
+  // change key banner -> image
+  frontmatter.image = `./assets/${normalizedImageName}`
+  delete frontmatter.banner
+
+  return result
 }
 
 /**

@@ -34,6 +34,7 @@ import {
   validateFrontmatter,
   getSkipReason,
   parseObsidianFrontMatter,
+  processBannerImage,
   processImages,
   buildMdxContent,
 } from './utils/import-obsidian-utils.mjs'
@@ -107,6 +108,21 @@ async function processNote(filePath, config) {
       filePath,
       getBasename,
     )
+
+    const bannerResult = await processBannerImage(
+      processedFrontmatter,
+      config.sourceAttachmentDir,
+      destinationDir,
+    )
+    if (bannerResult) {
+      if (bannerResult.success) {
+        log.info(
+          `copied image: ${bannerResult.originalName} → assets/${bannerResult.normalizedName}`,
+        )
+      } else {
+        log.warn(`missing image: ${bannerResult.originalName}`)
+      }
+    }
 
     const imageResult = await processImages(
       body,
