@@ -1,9 +1,6 @@
 import fs from 'fs-extra'
 import path from 'path'
 import matter from 'gray-matter'
-import createLogger from '../logger.mjs'
-
-const log = createLogger('import-obsidian-utils')
 
 // ============================================================================
 // FILE UTILITIES
