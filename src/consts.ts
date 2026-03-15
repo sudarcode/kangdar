@@ -101,9 +101,10 @@ export const ICON_MAP: IconMap = {
   terraform: { icon: 'simple-icons:terraform', color: '#7B42BC' },
   git: { icon: 'simple-icons:git', color: '#F05032' },
   vercel: { icon: 'simple-icons:vercel', color: '#888888' },
-  java : { icon: 'lucide:coffee', color: '#F8981D' },
+  java: { icon: 'lucide:coffee', color: '#F8981D' },
   maven: { icon: 'simple-icons:apachemaven', color: '#C71A36' },
   'vscode extension api': { icon: 'lucide:code', color: '#007ACC' },
+  leetcode: { icon: 'simple-icons:leetcode', color: '#FFA116' },
 }
 
 // Helper functions to extract icon name and color from ICON_MAP entry
