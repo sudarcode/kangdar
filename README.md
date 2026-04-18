@@ -2,7 +2,7 @@
 
 Personal portfolio website built with [Astro](https://astro.build/) and [astro-erudite](https://github.com/jktrn/astro-erudite) template.
 
-❤️ Special thanks to the [astro-erudite](https://github.com/jktrn/astro-erudite) template for providing an excellent foundation for this portfolio.
+❤️ Special thanks to the [astro-erudite](https://github.com/jktrn/astro-erudite) template for providing an excellent foundation for this portfolio. Powered by [giscus](https://giscus.app) for blog comments.
 
 ## ©️ License
 
