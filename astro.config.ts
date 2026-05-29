@@ -121,15 +121,15 @@ export default defineConfig({
   adapter: cloudflare(),
   redirects: {
     // v1.0.0 -> v3.0.0
-    '/blog/gunung-penanggungan':
+    '/post/penanggungan-mojokerto':
       '/blog/pindah-ke-ssg',
-    '/blog/bagian-dari-sh-terate/':
+    '/post/sh-terate':
       '/blog/pindah-ke-ssg',
-    '/blog/pantai-dermaga':
+    '/post/pantai-telaga':
       '/blog/pindah-ke-ssg',
-    '/blog/tuban/makam-aljabbar-tuban:
+    '/post/makam-mbah-jabbar-tuban:
       '/blog/pindah-ke-ssg',
-    '/blog/masjid-namira':
+    '/post/masjid-namira-lamongan':
       '/blog/pindah-ke-ssg',
   },
 })
