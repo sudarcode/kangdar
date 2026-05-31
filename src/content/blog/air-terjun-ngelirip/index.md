@@ -10,8 +10,6 @@ can_skip: false
 image: ./assets/ngelirip1.jpg
 ---
 
----
-
 Kota Tuban dikenal juga dengan julukan Bumi Wali juga memiliki tempat wisata pantai yang indah, mulai dari pantai semilir, pantai cemara, pantai kelapa dan masih banyak lagi. Akan tetapi di Tuban juga memiliki wisata air terjun yang indah lho yang letak nya itu di area Tuban selatan perbatesan dengan Area Bojonegoro.
 
 Air Terjun Putri Ngelirip namanya yang mana berada di Desa Jojogan Mulya Agung, Kecamatan Singgahan, Kabupaten Tuban, Jawa Timur. Karena saya juga dari lamongan selatan jadi lebih dekat itu apabila berangkat melalui bojonegoro karena hanya membutuhkan 1 jam 40 menit perjalanan nya. 
