@@ -33,4 +33,16 @@ Teori pertama adalah bahwa sebelum 1914, ada sebuah tanda lalu lintas kayu berbe
 
 Kajoetangan Kampoeng adalah salah satu lingkungan tertua yang telah berubah menjadi destinasi wisata di pusat Kota Malang. Kampung wisata tematik ini, yang diresmikan oleh Pemerintah Kota Malang pada 22 April 2018, berbasis budaya dan menawarkan keaslian kampoeng bersama peninggalan sejarah, bangunan, kuliner, serta kehidupan sosial dan budaya masyarakatnya. Wilayah ini memiliki berbagai potensi daerah yang menjadi daya tariknya. Potensi Kampoeng Kayutangan dapat dipetakan dalam lima kategori: wisata bangunan bersejarah dan tua, tempat ibadah, kuliner dan kegiatan komersial, penjelajahan sungai, serta acara dan kegiatan. Sumber website [Kajoetangan](https://kajoetanganheritagevillage.com/id) 
 
+## Mampir ke Oppa Caffe Yang Bernuansa K-Pop
+![Oppa Caffe](./assets/oppa.jpg)
+Karena belum sempat makan akhirnya mampir dulu ke Oppa Caffe yang ada di area Kampoeng Kajoetangan ini, karena semua caffe rame jadi memilih ke caffe tersebut yang lumayan sepi. 
+![Oppa Caffe](./assets/oppa1.jpg)
+Kampoeng Hiratage ini adalah wisata yang ada di tengah kota jadi tidak pernah sepi, kecuali saat hujan atau lagi tutup, 
+![Oppa Caffe](./assets/oppa2.jpg)
+Di Oppa Caffe ini banyak pilihan menu makanan yang bernuansa korea dan harga nya sangatlah mahal menurutku dan tidak work it sama rasa makanan nya. 
+
+Untuk harga makanan nya di Oppa Caffe ini paling murah adalah 30 ribu dan minuman paling murah itu 20 ribu tapi wajar sih karena tempat nya di kota jadi di bandrol segitu. 
+
+Akan Tetapi Epic nya adalah tempatnya yang nyaman dan sepi tjdak begitu ramai, dan nuansa korea ada juga foto oppa kore yang di pajang di dinding caffe tersebut. 
+
 Wisata kemana lagi nanti......? 
