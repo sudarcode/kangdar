@@ -1,5 +1,5 @@
 ---
-title: Kampoeng Hiratage Kajoetangan Malang, Kampung Wisata Di Malang Yang Viral di Medsos
+title: Mampir ke Kampoeng Hiratage Kajoetangan Malang
 description: >-
   Harga Tiket Masuk Kampoeng Hiratage Kajoetangan Malang, Serta Harga Makanan dan Minuman disana
 date: '2026-03-28'
