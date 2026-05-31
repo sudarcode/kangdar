@@ -38,11 +38,13 @@ Kajoetangan Kampoeng adalah salah satu lingkungan tertua yang telah berubah menj
 Karena belum sempat makan akhirnya mampir dulu ke Oppa Caffe yang ada di area Kampoeng Kajoetangan ini, karena semua caffe rame jadi memilih ke caffe tersebut yang lumayan sepi. 
 ![Oppa Caffe](./assets/oppa1.jpg)
 Kampoeng Hiratage ini adalah wisata yang ada di tengah kota jadi tidak pernah sepi, kecuali saat hujan atau lagi tutup, 
-![Oppa Caffe](./assets/oppa2.jpg)
+![Oppa Caffe](./assets/oppa3.jpg)
 Di Oppa Caffe ini banyak pilihan menu makanan yang bernuansa korea dan harga nya sangatlah mahal menurutku dan tidak work it sama rasa makanan nya. 
 
 Untuk harga makanan nya di Oppa Caffe ini paling murah adalah 30 ribu dan minuman paling murah itu 20 ribu tapi wajar sih karena tempat nya di kota jadi di bandrol segitu. 
 
-Akan Tetapi Epic nya adalah tempatnya yang nyaman dan sepi tjdak begitu ramai, dan nuansa korea ada juga foto oppa kore yang di pajang di dinding caffe tersebut. 
+Akan Tetapi Epic nya adalah tempatnya yang nyaman dan sepi tjdak begitu ramai, dan nuansa korea ada juga foto oppa kore yang di pajang di dinding caffe tersebut.
+
+Tidak hanya Oppa Caffe saja banyak pilihan caffe di Kajoetangan ini dan tentu saja tempatnya sangatlah Aestestic. 
 
 Wisata kemana lagi nanti......? 
